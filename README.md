@@ -9,7 +9,7 @@ after tha u just run main.py
 ur discord bot token
 
 ## how to make bot
-to get go to https://discord.dev/applications
+to get go to https://discord.dev/applications\n
 make bot
 enable all intents 
 copy token
