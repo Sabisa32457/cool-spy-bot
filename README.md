@@ -10,7 +10,7 @@ after tha u just run main.py
 ur discord bot token
 
 ## how to make bot
-to get go to [discord developer portal](https://discord.dev/applications),
+to get go to [discord developer portal](https://discord.com/developers/applications),
 make a bot
 enable all intents 
 copy token
