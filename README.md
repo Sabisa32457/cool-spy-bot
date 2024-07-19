@@ -1,7 +1,8 @@
 # cool-spy-bot
 you can spy as a bot, yaaay
 ## hoew to instal???????????????????
-download the windows executeabel (chek releas) den run spy.exe
+download the windows executeabel (chek releas) den run spy.exe 
+or yuo want to run manuali, 
 open terminal (or shell or watevr dat can run pyton) anc put `pip install -r requirements.txt`
 after tha u just run main.py
 
