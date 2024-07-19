@@ -92,9 +92,9 @@ def get_colorama_color(color): # chach gpt made som of dis cus i to lazy to type
 @client.event
 async def on_typing(channel, user, when):
         user_role_color = get_user_role_color(user)
-
+        server_name = user.guild.name
         role_color_code = get_colorama_color(user_role_color)
-        a = f"{current_time} #{channel}"
+        a = f"[{current_time}] Server: {server_name} #{channel}"
         tiem = Colorate.Diagonal(Colors.rainbow, a)
 
         formatted_message = (
