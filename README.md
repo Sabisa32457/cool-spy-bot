@@ -1,8 +1,8 @@
 # cool-spy-bot
 you can spy as a bot, yaaay
-
 ## hoew to instal???????????????????
-open cmd anc put `pip install -r requirements.txt`
+download the windows executeabel (chek releas) den run spy.exe
+open terminal (or shell or watevr dat can run pyton) anc put `pip install -r requirements.txt`
 after tha u just run main.py
 
 ## wat do i put in toke
